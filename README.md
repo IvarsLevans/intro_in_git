@@ -11,6 +11,8 @@ git add .
 git commit -m "Veiktas izmainas!"
 git push origin main
 
+git status # uzzinat kads status
+
 git config --global user.email "ivars.levans@gmail.com" 
 git config --global user.name "IvarsLevans"
 
